@@ -15,8 +15,7 @@ const Contact1 = () => {
     <>
       <PageWrapper footerDark>
         <Hero title="Get in touch">
-          Create custom landing pages with Omega that converts more visitors
-          than any website.
+          Reach out to our experienced team today!
         </Hero>
         <Section>
           <Container>
@@ -32,7 +31,7 @@ const Contact1 = () => {
                   <input type="hidden" name="form-name" value="contact1" />
 
                   <Box mb={5}>
-                    <Title>We are always open 24/7 for you.</Title>
+                    <Title>We are always here for you.</Title>
                   </Box>
                   <Box mb={3}>
                     <Input
@@ -84,22 +83,20 @@ const Contact1 = () => {
                   <Title variant="card" fontSize="24px">
                     Call us
                   </Title>
-                  <Text>+1-492-4918-395</Text>
-                  <Text>+14-394-409-591</Text>
+                  <Text>+1-818-498-395</Text>
                 </Box>
                 <Box className="mb-5">
                   <Title variant="card" fontSize="24px">
                     Email us
                   </Title>
-                  <Text>info@mail.com</Text>
-                  <Text>support@mail.com</Text>
+                  <Text>info@dtprosusa.com.com</Text>
                 </Box>
                 <Box className="mb-5">
                   <Title variant="card" fontSize="24px">
                     Contact us
                   </Title>
-                  <Text>34 Madison Street,</Text>
-                  <Text>NY, USA 10005</Text>
+                  <Text>21515 Vanowen Street, Suite 218</Text>
+                  <Text>Canoga Park, CA</Text>
                 </Box>
               </Col>
             </Row>
