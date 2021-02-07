@@ -52,7 +52,7 @@ const Clients = () => (
       <Container>
         <TitleContainer mb={"40px"}>
           <Text fontSize="18px" as="h4" className="">
-            Popular teams who use Omega for appoinments{" "}
+            Take a look at some of our partners.{" "}
           </Text>
         </TitleContainer>
       </Container>
