@@ -2,12 +2,12 @@ import { rgba } from "polished";
 import { breakpoints } from "./breakpoints";
 
 const defaultColors = {
-  primary: "#f04037",
-  secondary: "#5454d4",
+  primary: "#214378",
+  secondary: "#BE1E2D",
   white: "#ffffff",
   dark: "#19191b",
   black: "#000000",
-  yellow: "#fedc5a",
+  blue: "#007bff",
   ash: "#413e65",
   green: "#77bf41",
   info: "#0e567c",
@@ -26,7 +26,7 @@ const colors = {
   shadow: rgba(defaultColors.ash, 0.175),
   heading: defaultColors.dark,
   text: rgba(defaultColors.dark, 0.75),
-  warning: defaultColors.yellow,
+  warning: defaultColors.blue,
   success: defaultColors.green,
   info: defaultColors.info,
 
@@ -44,7 +44,7 @@ const colors = {
       shadow: rgba(defaultColors.ash, 0.175),
       heading: defaultColors.white,
       text: rgba(defaultColors.white, 0.75),
-      warning: defaultColors.yellow,
+      warning: defaultColors.blue,
       success: defaultColors.green,
       info: defaultColors.info,
     },
