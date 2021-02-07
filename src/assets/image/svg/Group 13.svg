@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350.868" height="118" viewBox="0 0 350.868 118">
+  <g id="Group_13" data-name="Group 13" transform="translate(-635.132 -182)">
+    <text id="T" transform="translate(699 182)" fill="#214378" font-size="91" font-family="DMSans-Bold, DM Sans" font-weight="700"><tspan x="0" y="90">T</tspan></text>
+    <g id="Group_10" data-name="Group 10" transform="translate(686.1 95.4)">
+      <g id="Group_12" data-name="Group 12">
+        <text id="D" transform="translate(-45.1 175.6)" fill="#be1e2d" font-size="90" font-family="DMSans-Bold, DM Sans" font-weight="700"><tspan x="0" y="0">D</tspan></text>
+        <line id="Line_1" data-name="Line 1" y1="55.359" x2="36" transform="translate(-45.1 107.767)" fill="none" stroke="#fff" stroke-width="14"/>
+      </g>
+      <line id="Line_2" data-name="Line 2" x1="36" y1="55.359" transform="translate(162.9 117.421)" fill="none" stroke="#fff" stroke-width="14"/>
+    </g>
+    <text id="professional_services" data-name="professional services" transform="translate(762 206)" fill="#214378" font-size="38" font-family="DMSans-Regular, DM Sans"><tspan x="0" y="38">professional </tspan><tspan x="0" y="68">services</tspan></text>
+  </g>
+</svg>

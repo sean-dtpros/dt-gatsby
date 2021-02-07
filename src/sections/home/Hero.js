@@ -108,7 +108,7 @@ const Hero = () => {
                     <i className="icon icon-check-2"></i>
                   </Box>
                   <Text color="light" fontSize={2} lineHeight="1.25">
-                    You have successfully filed in
+                    Happier Customers.
                   </Text>
                 </TopCard>
 
@@ -136,7 +136,7 @@ const Hero = () => {
                     <i className="icon icon-check-2"></i>
                   </Box>
                   <Text color="dark" fontSize={2} lineHeight="1.25">
-                    Appointment with the doctor was successful. Move to next!
+                    Better results.
                   </Text>
                 </BottomCard>
               </div>

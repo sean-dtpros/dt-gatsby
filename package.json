@@ -1,8 +1,8 @@
 {
-  "name": "omega-gatsby",
-  "description": "Omega Gatsby with Bootstrap 4, Styled Components, Slick Carousel, React Icons, React Headroom, etc",
+  "name": "dt-pros-gatsby",
+  "description": "DT Professional Services Website v2 Gatsby with Bootstrap 4, Styled Components, Slick Carousel, React Icons, React Headroom, etc",
   "version": "1.0.0",
-  "author": "grayic",
+  "author": "seanmahoney",
   "dependencies": {
     "@n8tb1t/use-scroll-position": "^1.0.43",
     "aos": "^3.0.0-beta.6",

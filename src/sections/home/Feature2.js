@@ -75,7 +75,7 @@ const Feature2 = () => (
             data-aos-delay="50"
           >
             <ContentCard
-              title="50+ Unique Design Blocks"
+              title="App Development"
               color="primary"
               iconName="icon-cards-2"
             />
@@ -90,7 +90,7 @@ const Feature2 = () => (
             data-aos-delay="50"
           >
             <ContentCard
-              title="Multiple Layouts"
+              title="Systems Engineering"
               color="ash"
               iconName="icon-layout-11"
             />
@@ -105,7 +105,7 @@ const Feature2 = () => (
             data-aos-delay="50"
           >
             <ContentCard
-              title="Mobile First Design"
+              title="Project Management"
               color="warning"
               iconName="icon-phone-charging-3-2"
             />
@@ -122,7 +122,7 @@ const Feature2 = () => (
             data-aos-delay="50"
           >
             <ContentCard
-              title="Fully Responsive"
+              title="eCommerce Development"
               color="ash"
               iconName="icon-sidebar-2"
             />
