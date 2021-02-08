@@ -81,11 +81,10 @@ const Feature = () => (
         <Row className="align-items-center">
           <Col lg="6" className="pl-lg-5 order-lg-2">
             <div className="feature-content section-title">
-              <Title color="light">Build a perfect landing page.</Title>
+              <Title color="light">Our Mission</Title>
               <Text color="light" opacity={0.7} mb={4}>
-                Create custom landing pages with Omega that converts more
-                visitors than any website. With lots of unique blocks, you can
-                easily build a page without coding.
+              To provide cutting-edge, custom-oriented technology solutions that maximize value, drive engagement, 
+              and empower your business.
               </Text>
 
               <Button variant="outline">Check all features</Button>
@@ -97,7 +96,7 @@ const Feature = () => (
                 <FeatureCard
                   color="primary"
                   iconName="icon-layout-11"
-                  title="Multiple Layouts"
+                  title="Custom-oriented technology solutions"
                 >
                   With lots of unique blocks, you can easily build a page
                   without coding.
@@ -107,7 +106,7 @@ const Feature = () => (
                 <FeatureCard
                   color="warning"
                   iconName="icon-sidebar-2"
-                  title="Fully Responsive"
+                  title="Maximize Value"
                 >
                   With lots of unique blocks, you can easily build a page
                   without coding.
@@ -117,7 +116,7 @@ const Feature = () => (
                 <FeatureCard
                   color="secondary"
                   iconName="icon-bookmark-2-2"
-                  title="Well Documented"
+                  title="Empowering Businesses"
                 >
                   With lots of unique blocks, you can easily build a page
                   without coding.
