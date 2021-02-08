@@ -83,8 +83,8 @@ const Feature = () => (
             <div className="feature-content section-title">
               <Title color="light">Our Mission</Title>
               <Text color="light" opacity={0.7} mb={4}>
-              To provide cutting-edge, custom-oriented technology solutions that maximize value, drive engagement, 
-              and empower your business.
+              At DT, we take pride in offering our clients unique, cutting-edge solutions that are custom-tailored to their needs. 
+              We empower businesses by maximizing value and driving engagement.
               </Text>
 
               <Button variant="outline">Learn More About Us</Button>
