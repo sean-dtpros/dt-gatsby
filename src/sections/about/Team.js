@@ -56,8 +56,8 @@ const Team = () => (
             <div className="">
               <Title>Meet the team</Title>
               <Text>
-                Create custom landing pages with Omega that converts more
-                visitors than any website.{" "}
+                Elevating Services & Technology Solutions – 
+                Delivering for a better tomorrow!{" "}
               </Text>
             </div>
           </Col>

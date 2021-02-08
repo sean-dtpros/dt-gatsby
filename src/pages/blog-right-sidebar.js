@@ -18,8 +18,8 @@ const BlogRightSidebar = () => {
               <Col lg="8">
                 <Title variant="hero">Blog Right Sidebar</Title>
                 <Text>
-                  Create custom landing pages with Omega that converts more
-                  visitors than any website.
+                  Elevating Services & Technology Solutions – 
+                  Delivering for a better tomorrow!
                 </Text>
               </Col>
             </Row>
