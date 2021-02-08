@@ -153,7 +153,7 @@ const Hero = () => {
                     Building the future, together.
                   </Title>
                   <Text mb={4}>
-                  We're an SBA certified 8(a) client-centric, award-winning IT development and software solutions firm.  
+                  We're an award-winning SBA certified 8(a) client-centric IT development and software solutions firm.  
                   </Text>
                   <div className="d-flex flex-column align-items-start">
                     <Button mb={3}>Learn More</Button>

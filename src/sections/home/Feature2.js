@@ -57,9 +57,7 @@ const Feature2 = () => (
           <Col lg="9">
             <Box className="text-center" mb={[4, 5]}>
               <Title>
-                What we're 
-                <br />
-                capable of.
+                What we do
               </Title>
             </Box>
           </Col>

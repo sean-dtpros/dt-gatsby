@@ -88,7 +88,7 @@ const Feature = () => (
               maximizing value and driving engagement.
               </Text>
 
-              <Button variant="outline">Learn More About Us</Button>
+              <Button variant="outline">More About Us</Button>
             </div>
           </Col>
           <Col lg="6" className="order-lg-1 mt-5 mt-lg-0">
