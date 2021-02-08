@@ -87,7 +87,7 @@ const Feature = () => (
               and empower your business.
               </Text>
 
-              <Button variant="outline">Check all features</Button>
+              <Button variant="outline">Learn More About Us</Button>
             </div>
           </Col>
           <Col lg="6" className="order-lg-1 mt-5 mt-lg-0">
@@ -126,7 +126,7 @@ const Feature = () => (
                 <FeatureCard
                   color="ash"
                   iconName="icon-chat-45-2"
-                  title="Great Support"
+                  title="Drive Engagement"
                 >
                   With lots of unique blocks, you can easily build a page
                   without coding.
