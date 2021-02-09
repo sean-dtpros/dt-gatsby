@@ -64,17 +64,17 @@ const Team = () => (
         </Row>
         <Row className="align-items-center justify-content-center">
           <Col sm="6" md="5" lg="4" className="mt-3 mt-lg-4">
-            <TeamCard userImg={imgU1} title="Louise Elliott">
+            <TeamCard userImg={imgU1} title="Nipun Sharma">
               Founder and CEO
             </TeamCard>
           </Col>
           <Col sm="6" md="5" lg="4" className="mt-3 mt-lg-4">
-            <TeamCard userImg={imgU2} title="Trevor Fleming">
-              CTO
+            <TeamCard userImg={imgU2} title="Rick Kuhlmann">
+              Team Lead
             </TeamCard>
           </Col>
           <Col sm="6" md="5" lg="4" className="mt-3 mt-lg-4">
-            <TeamCard userImg={imgU3} title="Raymond Baker">
+            <TeamCard userImg={imgU3} title="Sean Mahoney">
               Software Engineer
             </TeamCard>
           </Col>
@@ -84,13 +84,13 @@ const Team = () => (
             </TeamCard>
           </Col>
           <Col sm="6" md="5" lg="4" className="mt-3 mt-lg-4">
-            <TeamCard userImg={imgU5} title="Daisy Ferguson">
+            <TeamCard userImg={imgU5} title="Eamon Hardiman">
               Content Writer
             </TeamCard>
           </Col>
           <Col sm="6" md="5" lg="4" className="mt-3 mt-lg-4">
-            <TeamCard userImg={imgU6} title="Todd Summers">
-              Digital Marketer
+            <TeamCard userImg={imgU6} title="Tina Duggal">
+              Human Resources
             </TeamCard>
           </Col>
         </Row>
