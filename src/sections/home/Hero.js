@@ -107,7 +107,7 @@ const Hero = () => {
                   >
                     <i className="icon icon-check-2"></i>
                   </Box>
-                  <Text color="light" fontSize={2} lineHeight="1.25">
+                  <Text color="light" fontSize={3} lineHeight="1.25">
                     Happier Customers.
                   </Text>
                 </TopCard>
@@ -135,7 +135,7 @@ const Hero = () => {
                   >
                     <i className="icon icon-check-2"></i>
                   </Box>
-                  <Text color="dark" fontSize={2} lineHeight="1.25">
+                  <Text color="light" fontSize={3} lineHeight="1.25">
                     Better results.
                   </Text>
                 </BottomCard>

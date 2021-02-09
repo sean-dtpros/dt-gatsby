@@ -97,7 +97,7 @@ const Feature = () => (
                 <FeatureCard
                   color="primary"
                   iconName="icon-layout-11"
-                  title="Custom-oriented technology solutions"
+                  title="Custom-Oriented Technology Solutions"
                 >
                   When static solutions won't work for your business, 
                   we are able to tailor our services to your needs.

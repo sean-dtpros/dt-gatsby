@@ -83,7 +83,7 @@ const Contact1 = () => {
                   <Title variant="card" fontSize="24px">
                     Call us
                   </Title>
-                  <Text>+1-818-498-395</Text>
+                  <Text>+1 818-233-8330</Text>
                 </Box>
                 <Box className="mb-5">
                   <Title variant="card" fontSize="24px">
