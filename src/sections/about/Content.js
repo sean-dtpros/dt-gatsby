@@ -26,11 +26,16 @@ const Content = () => (
           </Col>
           <Col lg="6" className="pl-lg-5">
             <Text>
-              Create custom landing pages with Omega that converts more visitors
-              than any website. With lots of unique blocks, you can easily build
-              a page without coding. Create custom landing pages with Omega that
-              converts more visitors than any website. With lots of unique
-              blocks, you can easily build a page without coding.
+              DT Professional Services is a CMMI Level 2 (Services), SBA certified 8(a) 
+              Small Disadvantaged Business, experienced in providing award-winning professional 
+              services, custom software solutions, and support services. Established in 2013 
+              by founder Nipun Sharma, we bring over 15 years of experience in delivering professional 
+              services & solutions for our prestigious clients. 
+              
+              As a client-centric provider, we use value-driven management and solution-producing 
+              methodologies to provide top-tier results for our clients. We are highly regarded 
+              and recognized for innovative solutions, thought leadership, project management, 
+              and go-to-market strategies with results that have consistently dominated competitive markets.
             </Text>
           </Col>
         </Row>
