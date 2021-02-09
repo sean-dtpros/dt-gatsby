@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "seanmahoney",
   "dependencies": {
+    "@bit/bondz.react-epic-spinners.fingerprint-spinner": "^0.3.0",
     "@n8tb1t/use-scroll-position": "^1.0.43",
     "aos": "^3.0.0-beta.6",
     "babel-plugin-styled-components": "^1.10.6",

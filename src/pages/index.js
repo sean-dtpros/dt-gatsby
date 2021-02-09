@@ -1,5 +1,6 @@
 import React from "react";
 import Hero from "../sections/home/Hero";
+import FingerprintSpinner from "../components/FingerprintSpinner";
 import Clients from "../sections/home/Clients";
 import Feature from "../sections/home/Feature";
 import Feature2 from "../sections/home/Feature2";
@@ -13,6 +14,7 @@ const IndexPage = () => {
     <>
       <PageWrapper footerDark>
         <Hero />
+        <FingerprintSpinner />
         <Clients />
         <Feature />
         <Feature2 />

@@ -99,8 +99,8 @@ const Feature = () => (
                   iconName="icon-layout-11"
                   title="Custom-oriented technology solutions"
                 >
-                  With lots of unique blocks, you can easily build a page
-                  without coding.
+                  When static solutions won't work for your business, 
+                  we are able to tailor our services to your needs.
                 </FeatureCard>
               </Col>
               <Col md="6">
@@ -109,8 +109,8 @@ const Feature = () => (
                   iconName="icon-sidebar-2"
                   title="Maximize Value"
                 >
-                  With lots of unique blocks, you can easily build a page
-                  without coding.
+                  Employing cost-effective and scalable methods, we are 
+                  able to offer maximum value for your project.
                 </FeatureCard>
               </Col>
               <Col md="6">
@@ -119,8 +119,8 @@ const Feature = () => (
                   iconName="icon-bookmark-2-2"
                   title="Empowering Businesses"
                 >
-                  With lots of unique blocks, you can easily build a page
-                  without coding.
+                  We learn what motivates our clients and end-users 
+                  in order to improve interaction across the board.
                 </FeatureCard>
               </Col>
               <Col md="6">
@@ -129,8 +129,8 @@ const Feature = () => (
                   iconName="icon-chat-45-2"
                   title="Drive Engagement"
                 >
-                  With lots of unique blocks, you can easily build a page
-                  without coding.
+                  We provide you with the tools and support you need to make 
+                  your business stronger and more productive.
                 </FeatureCard>
               </Col>
             </Row>
