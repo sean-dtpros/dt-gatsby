@@ -56,8 +56,8 @@ const Testimonial = () => (
             <Col lg="7" xl="6">
               <div className="section-title text-center">
                 <Title>
-                  Customers are <br className="d-none d-md-block" /> loving
-                  Omega
+                  Take it <br className="d-none d-md-block" /> from our
+                  customers
                 </Title>
               </div>
             </Col>

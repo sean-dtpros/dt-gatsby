@@ -120,73 +120,12 @@ const Feature2 = () => (
             data-aos-delay="50"
           >
             <ContentCard
-              title="eCommerce Development"
+              title="Cloud Computing"
               color="ash"
               iconName="icon-sidebar-2"
             />
           </Col>
-          <Col
-            lg="4"
-            md="6"
-            className="mb-4"
-            data-aos="zoom-in"
-            data-aos-duration="750"
-            data-aos-once="true"
-            data-aos-delay="50"
-          >
-            <ContentCard
-              title="Bootstrap 4 Framework"
-              color="primary"
-              iconName="icon-grid-45"
-            />
-          </Col>
-        </Row>
-        <Row className="justify-content-center">
-          <Col
-            lg="4"
-            md="6"
-            className="mb-4"
-            data-aos="zoom-in"
-            data-aos-duration="750"
-            data-aos-once="true"
-            data-aos-delay="50"
-          >
-            <ContentCard
-              title="Rich Documentation"
-              color="ash"
-              iconName="icon-bookmark-2-2"
-            />
-          </Col>
-          <Col
-            lg="4"
-            md="6"
-            className="mb-4"
-            data-aos="zoom-in"
-            data-aos-duration="750"
-            data-aos-once="true"
-            data-aos-delay="50"
-          >
-            <ContentCard
-              title="Humanly Support"
-              color="success"
-              iconName="icon-voice-recognition-2"
-            />
-          </Col>
-          <Col
-            lg="4"
-            md="6"
-            className="mb-4"
-            data-aos="zoom-in"
-            data-aos-duration="750"
-            data-aos-once="true"
-            data-aos-delay="50"
-          >
-            <ContentCard
-              title="Lifetime Updates"
-              color="primary"
-              iconName="icon-infinite"
-            />
-          </Col>
+
         </Row>
       </Container>
     </Section>

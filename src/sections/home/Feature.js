@@ -107,7 +107,7 @@ const Feature = () => (
                 <FeatureCard
                   color="warning"
                   iconName="icon-sidebar-2"
-                  title="Maximize Value"
+                  title="Maximizing Value"
                 >
                   Employing cost-effective and scalable methods, we are 
                   able to offer maximum value for your project.
@@ -127,7 +127,7 @@ const Feature = () => (
                 <FeatureCard
                   color="ash"
                   iconName="icon-chat-45-2"
-                  title="Drive Engagement"
+                  title="Driving Engagement"
                 >
                   We provide you with the tools and support you need to make 
                   your business stronger and more productive.
