@@ -79,8 +79,13 @@ const Team = () => (
             </TeamCard>
           </Col>
           <Col sm="6" md="5" lg="4" className="mt-3 mt-lg-4">
-            <TeamCard userImg={imgU4} title="George Torres">
-              UX Designer
+            <TeamCard userImg={imgU4} title="Vrushali Patel">
+              Developer
+            </TeamCard>
+          </Col>
+          <Col sm="6" md="5" lg="4" className="mt-3 mt-lg-4">
+            <TeamCard userImg={imgU4} title="Rebecca Reinin">
+              Project Coordinator
             </TeamCard>
           </Col>
           <Col sm="6" md="5" lg="4" className="mt-3 mt-lg-4">

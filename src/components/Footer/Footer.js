@@ -102,7 +102,7 @@ const Footer = ({ isDark = true }) => {
                         </li>
                         <li>
                           <a href="/#" target="_blank">
-                            Team Members
+                            Our Team
                           </a>
                         </li>
                       </UlStyled>
@@ -114,7 +114,7 @@ const Footer = ({ isDark = true }) => {
                         variant="card"
                         color={isDark ? "light" : "dark"}
                       >
-                        Learn
+                        What We Do
                       </TitleStyled>
                       <UlStyled color={isDark ? "lightShade" : "darkShade"}>
                         <li>
@@ -141,7 +141,7 @@ const Footer = ({ isDark = true }) => {
                         variant="card"
                         color={isDark ? "light" : "dark"}
                       >
-                        Stories
+                        Case Studies
                       </TitleStyled>
                       <UlStyled color={isDark ? "lightShade" : "darkShade"}>
                         <li>
@@ -196,17 +196,17 @@ const Footer = ({ isDark = true }) => {
               <Col sm="6" className="text-sm-right text-center">
                 <ul className="social-icons">
                   <li>
-                    <a href="/#" target="_blank">
+                    <a href="https://twitter.com/dtproservices" target="_blank">
                       <i className="icon icon-logo-twitter"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="/#" target="_blank">
+                    <a href="https://www.linkedin.com/company/dt-professional-services/" target="_blank">
                       <i className="icon icon-logo-linkedin"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="/#" target="_blank">
+                    <a href="https://www.facebook.com/dtprosusa/" target="_blank">
                       <i className="icon icon-logo-facebook"></i>
                     </a>
                   </li>
